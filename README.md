@@ -6,8 +6,4 @@
 NoCommonsNET
 ============
 
-Port av NoCommons-biblioteket for .NET
-
- * https://github.com/bekkopen/NoCommons
-
- Sample apps can be found [in the samples repo](https://github.com/johnkors/NoCommonsNET.Samples)
+THIS BRANCH IS ONLY FOR HOSTING STATIC CONTENTS VIA GITHUB LIKE THE NUGET LOGO :)
